@@ -1,0 +1,11 @@
+E:\Examen 3-10\Biblioteca\bin\Debug\net8.0\Biblioteca.deps.json
+E:\Examen 3-10\Biblioteca\bin\Debug\net8.0\Biblioteca.dll
+E:\Examen 3-10\Biblioteca\bin\Debug\net8.0\Biblioteca.pdb
+E:\Examen 3-10\Biblioteca\obj\Debug\net8.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+E:\Examen 3-10\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfoInputs.cache
+E:\Examen 3-10\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfo.cs
+E:\Examen 3-10\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.CoreCompileInputs.cache
+E:\Examen 3-10\Biblioteca\obj\Debug\net8.0\Biblioteca.dll
+E:\Examen 3-10\Biblioteca\obj\Debug\net8.0\refint\Biblioteca.dll
+E:\Examen 3-10\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
+E:\Examen 3-10\Biblioteca\obj\Debug\net8.0\ref\Biblioteca.dll
